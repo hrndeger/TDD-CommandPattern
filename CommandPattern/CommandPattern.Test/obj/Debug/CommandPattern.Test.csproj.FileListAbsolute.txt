@@ -1,0 +1,13 @@
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\bin\Debug\CommandPattern.Test.dll
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\bin\Debug\CommandPattern.Test.pdb
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\bin\Debug\FluentAssertions.Core.dll
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\bin\Debug\FluentAssertions.dll
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\bin\Debug\FluentAssertions.pdb
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\bin\Debug\FluentAssertions.xml
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\bin\Debug\FluentAssertions.Core.pdb
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\bin\Debug\FluentAssertions.Core.xml
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\obj\Debug\CommandPattern.Test.csprojResolveAssemblyReference.cache
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\obj\Debug\CommandPattern.Test.dll
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\obj\Debug\CommandPattern.Test.pdb
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\bin\Debug\CommandPattern.exe
+F:\Projects\TDD\CommandPattern\CommandPattern.Test\bin\Debug\CommandPattern.pdb

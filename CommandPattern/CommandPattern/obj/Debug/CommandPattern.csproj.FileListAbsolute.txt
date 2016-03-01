@@ -1,0 +1,5 @@
+F:\Projects\TDD\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+F:\Projects\TDD\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+F:\Projects\TDD\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+F:\Projects\TDD\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+F:\Projects\TDD\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
